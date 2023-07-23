@@ -15,6 +15,7 @@ class Var(object):
     name = str(getenv('SESSION_NAME', 'filetolinkbot'))
     SLEEP_THRESHOLD = int(getenv('SLEEP_THRESHOLD', '60'))
     WORKERS = int(getenv('WORKERS', '4'))
+    PICS = int(getenv('PICS', 'https://graph.org/file/bee17850e842b8ecaad3c.jpg https://graph.org/file/b13a16615914952c141e4.jpg').split())
     BIN_CHANNEL = int(getenv('BIN_CHANNEL'))
     PORT = int(getenv('PORT', 8080))
     BIND_ADRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', '0.0.0.0'))
