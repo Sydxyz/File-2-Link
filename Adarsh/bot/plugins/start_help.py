@@ -60,9 +60,9 @@ async def start(b, m):
             caption="**ʜᴇʟʟᴏ...⚡\n\nɪ,ᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴀɴᴅ sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀᴢ...**",
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton(" ᴜᴩᴅΔᴛᴇꜱ ", url="https://t.me/Bot_cracker"), InlineKeyboardButton("☆ ᴍᴏVɪᴇꜱ ☆", url="https://t.me/Mod_MoviezX")],
+                    [InlineKeyboardButton("✲ UᴩᴅΔᴛᴇꜱ ✲", url="https://t.me/Bot_cracker"), InlineKeyboardButton("☆ ᴍᴏVɪᴇꜱ ☆", url="https://t.me/Mod_MoviezX")],
                     [InlineKeyboardButton("♚ Oᴡɴᴇʀ ♚", user_id=1733124290), InlineKeyboardButton("⚘ Bᴏᴛꜱ ➾", url="https://t.me/Bot_Cracker/17")],
-                    [InlineKeyboardButton("✭ Mᴏᴠɪᴇꜱ Gʀᴏᴜᴩ ✭", url="https://t.me/+d7djWG_VLfcwMzg9")]
+                    [InlineKeyboardButton("✫ Mᴏᴠɪᴇꜱ Gʀᴏᴜᴩ ✫", url="https://t.me/+d7djWG_VLfcwMzg9")]
                 ]
             ),
             
@@ -86,7 +86,7 @@ async def start(b, m):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
+                                InlineKeyboardButton("⍟ ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ⍟", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
                             ]                           
                         ]
                     )
@@ -154,11 +154,11 @@ async def help_handler(bot, message):
         except UserNotParticipant:
             await bot.send_message(
                 chat_id=message.chat.id,
-                text="**ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜsᴇ  ᴍᴇ..**\n\n**ᴄʜᴀɴɴᴇʟᴏᴠᴇʀʟᴏᴀᴅ ᴏɴʟʏ ᴄʜᴀɴɴᴇʟ sᴜʙsᴄʀɪʙᴇʀs ᴄᴀɴ ᴜsᴇ ᴍᴇ..!**",
+                text="**ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜsᴇ  ᴍᴇ..🥹🥹**\n\n**ᴛʜᴇʀᴇ ᴍᴀɴy ᴜꜱᴇʀꜱ ᴀɴᴅ ᴡᴇ ᴀʀᴇ ɢɪᴠɪɴɢ ᴛʜɪꜱ ꜱᴇʀᴠɪᴄᴇ ꜰᴏʀ ꜰʀᴇᴇ🥲** \n\n**Sᴏ ᴩʟᴇᴀꜱᴇ ꜱᴜᴩᴩᴏʀᴛ ᴜꜱ ..!😔😔**",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
+                            InlineKeyboardButton("⍟ ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ⍟", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
                         ]
                     ]
                 )
@@ -207,11 +207,11 @@ async def about_handler(bot, message):
         except UserNotParticipant:
             await bot.send_message(
                 chat_id=message.chat.id,
-                text="**ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜsᴇ  ᴍᴇ..**\n\n**ᴅᴜᴇ ᴛᴏ ᴏᴠᴇʀʟᴏᴀᴅ ᴏɴʟʏ ᴄʜᴀɴɴᴇʟ ᴄᴀɴ ᴜsᴇ ᴍᴇ..!**",
+                text="**ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜsᴇ  ᴍᴇ..🥹🥹**\n\n**ᴛʜᴇʀᴇ ᴍᴀɴy ᴜꜱᴇʀꜱ ᴀɴᴅ ᴡᴇ ᴀʀᴇ ɢɪᴠɪɴɢ ᴛʜɪꜱ ꜱᴇʀᴠɪᴄᴇ ꜰᴏʀ ꜰʀᴇᴇ🥲** \n\n**Sᴏ ᴩʟᴇᴀꜱᴇ ꜱᴜᴩᴩᴏʀᴛ ᴜꜱ ..!😔😔**",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
+                            InlineKeyboardButton("⍟ ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ⍟", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
                         ]
                     ]
                 )
