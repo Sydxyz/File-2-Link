@@ -56,13 +56,13 @@ async def start(b, m):
                     disable_web_page_preview=True)
                 return
         await m.reply_photo(
-            photo="https://graph.org/file/3127e1070754f0df40f5c.jpg",
+            photo="https://graph.org/file/f20d1210495df4bd7b4c8.jpg",
             caption="**ʜᴇʟʟᴏ...⚡\n\nɪ,ᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴀɴᴅ sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀᴢ...**",
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡️⛈️ ᴜᴩᴅΔᴛᴇꜱ ⛈️⚡️", url="https://t.me/Bot_cracker"), InlineKeyboardButton("🌟 ᴍᴏVɪᴇꜱ 🌟", url="https://t.me/Mod_MoviezX")],
-                    [InlineKeyboardButton("♔ Oᴡɴᴇʀ ♔", user_id=1733124290), InlineKeyboardButton("🪩 Bᴏᴛꜱ 🪩", url="https://t.me/Bot_Cracker/17")],
-                    [InlineKeyboardButton("Mᴏᴠɪᴇꜱ Gʀᴏᴜᴩ", url="https://t.me/+d7djWG_VLfcwMzg9")]
+                    [InlineKeyboardButton(" ᴜᴩᴅΔᴛᴇꜱ ", url="https://t.me/Bot_cracker"), InlineKeyboardButton("☆ ᴍᴏVɪᴇꜱ ☆", url="https://t.me/Mod_MoviezX")],
+                    [InlineKeyboardButton("♚ Oᴡɴᴇʀ ♚", user_id=1733124290), InlineKeyboardButton("⚘ Bᴏᴛꜱ ➾", url="https://t.me/Bot_Cracker/17")],
+                    [InlineKeyboardButton("✭ Mᴏᴠɪᴇꜱ Gʀᴏᴜᴩ ✭", url="https://t.me/+d7djWG_VLfcwMzg9")]
                 ]
             ),
             
