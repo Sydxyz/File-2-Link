@@ -14,7 +14,8 @@ from Adarsh.utils.file_properties import get_name, get_hash, get_media_file_size
 db = Database(Var.DATABASE_URL, Var.name)
 from pyrogram.types import ReplyKeyboardMarkup
 
-PICS = "https://graph.org/file/3127e1070754f0df40f5c.jpg"                     
+PICS =https://graph.org/file/3127e1070754f0df40f5c.jpg
+
 @StreamBot.on_message(filters.command('start') & filters.private)
 async def start(b, m):
     if not await db.is_user_exist(m.from_user.id):
