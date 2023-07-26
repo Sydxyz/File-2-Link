@@ -1,4 +1,3 @@
-#Aadhi000
 import random
 from Adarsh.bot import StreamBot
 from Adarsh.vars import Var
@@ -41,7 +40,7 @@ async def start(b, m):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("𝙹𝙾𝙸𝙽 𝚄𝙿𝙳𝙰𝚃𝙴𝚉 𝙲𝙷𝙰𝙽𝙽𝙴𝙻", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
+                                InlineKeyboardButton("⍟ ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ⍟", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
                             ]
                         ]
                     )
@@ -61,7 +60,7 @@ async def start(b, m):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [InlineKeyboardButton("✲ UᴩᴅΔᴛᴇꜱ ✲", url="https://t.me/Bot_cracker"), InlineKeyboardButton("☆ ᴍᴏVɪᴇꜱ ☆", url="https://t.me/Mod_MoviezX")],
-                    [InlineKeyboardButton("♚ Oᴡɴᴇʀ ♚", user_id=1733124290), InlineKeyboardButton("⚘ Bᴏᴛꜱ ➾", url="https://t.me/Bot_Cracker/17")],
+                    [InlineKeyboardButton("♚ Oᴡɴᴇʀ ♚", user_id=1733124290), InlineKeyboardButton ("☬ Bᴀᴄᴋ-Uᴩ", url="https://t.me/+7TYOxeNL37I5MWRl"), InlineKeyboardButton("⚘ Bᴏᴛꜱ ➾", url="https://t.me/Bot_Cracker/17")],
                     [InlineKeyboardButton("✫ Mᴏᴠɪᴇꜱ Gʀᴏᴜᴩ ✫", url="https://t.me/+d7djWG_VLfcwMzg9")]
                 ]
             ),
@@ -230,7 +229,7 @@ async def about_handler(bot, message):
 
 <b>╭━━━━━━━⦍ ⸢ʙᴏᴛ-ᴅᴇᴛᴀɪʟꜱ⸥ ⦐</b>
 ┃
-┣⪼<b>Bᴏᴛ ɴΔᴍᴇ : <a href='https://t.me/Ms_FiLe2LINk_bOt'>˹ᴍꜱ˼ ˾ꜰɪʟᴇ 2 ʟɪɴᴋ˺ ʙoᴛ 𐂴𐂴</a></b>
+┣⪼<b>Bᴏᴛ ɴΔᴍᴇ : <a href='https://t.me/Ms_FiLe2LINk_bOt'>˹ᴍꜱ˼ ˾ꜰɪʟᴇ 2 ʟɪɴᴋ˺ ʙoᴛ𐂴</a></b>
 ┣⪼<b>Oᴡɴᴇʀ : <a href='http://t.me/Syd_Xyz'>мґ 𝕾𝖄𝕯 ️✨️️</a></b>
 ┣⪼<b>Uᴘᴅᴀᴛᴇꜱ : <a href='https://t.me/Bot_cracker'>𝗞𝗪𝗜𝗖𝗕𝗢𝗧 𝗨𝗣𝗗𝗔𝗧𝗘𝗦</a></b>
 ┣⪼<b>Sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/kwic2002'>𝗞𝗪𝗜𝗖</a></b>
