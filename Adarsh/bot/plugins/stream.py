@@ -29,12 +29,12 @@ async def login_handler(c: Client, m: Message):
             if _text.text:
                 textp = _text.text
                 if textp=="/cancel":
-                   await ag.edit("Process Cancelled Successfully")
+                   await ag.edit("Pʀᴏᴄᴇꜱꜱ Cancelled Successfully")
                    return
             else:
                 return
         except TimeoutError:
-            await ag.edit("I can't wait more for password, try again")
+            await ag.edit("I ᴄᴀɴ'ᴛ ᴡᴀɪᴛ ᴍᴏʀᴇ ꜰᴏʀ ᴩᴀꜱꜱᴡᴏʀᴅ, Tʀy Δɢᴀɪɴ")
             return
         if textp == MY_PASS:
             await pass_db.add_user_pass(m.chat.id, textp)
@@ -78,7 +78,7 @@ async def private_receive_handler(c: Client, m: Message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("ᴊᴏɪɴ ɴᴏᴡ", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
+                            InlineKeyboardButton("⍟ ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ⍟", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
                         ]
                     ]
                 )
