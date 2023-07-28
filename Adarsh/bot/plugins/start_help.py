@@ -124,7 +124,7 @@ async def start(b, m):
 
         msg_text = "**Yᴏᴜʀ ʟɪɴᴋ ɪs ɢᴇɴᴇʀᴀᴛᴇᴅ...⚡\n\n📧 ғɪʟᴇ ɴᴀᴍᴇ :-\n{}\n {}\n\n💌 ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ :- {}\n\n♻️ ᴛʜɪs ʟɪɴᴋ ɪs ᴘᴇʀᴍᴀɴᴇɴᴛ ᴀɴᴅ ᴡᴏɴ'ᴛ ɢᴇᴛ ᴇxᴘɪʀᴇᴅ ♻️\n\nꜱᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋꜱ ᴛᴏ..... <a href='http://t.me/Mod_MoviezX'>𐂮 ᴍᴏᴅ ᴍᴏᴠɪᴇᴢ ˹x˼™</a>**"
         await m.reply_photo(
-            photo="",
+            photo=random.choice(Var.PICS),
             caption=msg_text.format(file_name, file_size, stream_link),
             
             reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("⚡ ᴅᴏᴡɴʟᴏᴀᴅ ɴᴏᴡ ⚡", url=stream_link)]])
