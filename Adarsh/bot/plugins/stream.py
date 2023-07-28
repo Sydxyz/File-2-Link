@@ -102,7 +102,7 @@ async def private_receive_handler(c: Client, m: Message):
         
 
         msg_text ="""
-<b>ʏᴏᴜʀ ʟɪɴᴋ ɪs ɢᴇɴᴇʀᴀᴛᴇᴅ...⚡
+<b>Yᴏᴜʀ ʟɪɴᴋ ɪs ɢᴇɴᴇʀᴀᴛᴇᴅ...⚡
 
 <b>📧 ғɪʟᴇ ɴΔᴍᴇ :- </b> <i><b>{}</b></i>
 
@@ -123,7 +123,7 @@ async def private_receive_handler(c: Client, m: Message):
             quote=True,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([
-                                               [InlineKeyboardButton("Sᴜᴩᴩᴏʀᴛ ᴜꜱ", url='https://t.me/+amIvlfZkOQZlYTY1')],
+                                               [InlineKeyboardButton("𐂭 ˹Sᴜᴩᴩᴏʀᴛ ᴜꜱ˼ 𐂭", url='https://t.me/+amIvlfZkOQZlYTY1')],
                                                [InlineKeyboardButton("⚡ ᴡᴀᴛᴄʜ ⚡", url=stream_link), #Stream Link
                                                 InlineKeyboardButton('⚡ ᴅᴏᴡɴʟᴏᴀᴅ ⚡', url=online_link)]]) #Download Link
         )
