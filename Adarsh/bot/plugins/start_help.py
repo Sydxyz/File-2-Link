@@ -235,6 +235,7 @@ async def about_handler(bot, message):
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
 ┣⪼<b>sᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ : <a href='https://github.com/kwicfletolinkbot'>𝗞𝗪𝗜𝗖𝗕𝗢𝗧𝗦</a></b>
 ┣⪼<b>𝙼𝚘𝚟𝚒𝚎-𝙶𝚛ᴏᴜᴩ : <a href='https://t.me/MoviesNowV2'>𝙼𝚘𝚟𝚒𝚎𝚜𝙽𝚘𝚠𝚅2</a></b>
+┣⪼<b>Bᴜɪʟᴅ ∇ᴇʀꜱɪᴏɴ : v2 [ ≛ Bƴ ʍɾ Sчᴅ ≛ ]</b>
 ┃
 <b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
   
