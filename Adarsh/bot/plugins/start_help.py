@@ -229,13 +229,13 @@ async def about_handler(bot, message):
 ┣⪼<b>Bᴏᴛ ɴΔᴍᴇ : <a href='https://t.me/Ms_FiLe2LINk_bOt'>˹ᴍꜱ˼ ˾ꜰɪʟᴇ 2 ʟɪɴᴋ˺ 𐂴</a></b>
 ┣⪼<b>Oᴡɴᴇʀ : <a href='http://t.me/Syd_Xyz'>мґ 𝕾𝖄𝕯 ️✨️️</a></b>
 ┣⪼<b>Uᴘᴅᴀᴛᴇꜱ : <a href='https://t.me/Bot_cracker'>Bᴏᴛ Cʀᴀᴄᴋᴇʀ 𐂭</a></b>
-┣⪼<b>Sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/MrMoviez_Grp'></a></b>
+┣⪼<b>Sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/MrMoviez_Grp'>Mʀ Mᴏᴠɪᴇᴢ Gʀᴩ ⍟</a></b>
 ┣⪼<b>sᴇʀᴠᴇʀ : <a href='https://mrsydoo.blogspot.com/2023/05/you-cant-count-no-of-ads-ad-site.html'>Bʟᴏɢɢᴇʀ; TʜΞ Δᴅ SɪΓΞ 😊</a>
 ┣⪼<b>ʟɪʙʀᴀʀʏ : <a href='https://t.me/+amIvlfZkOQZlYTY1'>Tɢ 🫥</a></b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: <a href='https://t.me/+iHakK2FaA5dhNTg1'>ΞИGLISH🤕🤕<\a></b>
 ┣⪼<b>Cʀᴇᴅɪᴛꜱ : <a href='https://t.me/+RuD7qZl8PFJiNTI1'>PᴀʀΔʟʟᴇʟ CɪɴᴇᴍΔꜱ ™</a></b>
-┣⪼<b>Mᴏᴠɪᴇꜱ Gʀᴏᴜᴩ : <a href='https://t.me/'>𝙼𝚘𝚟𝚒𝚎𝚜𝙽𝚘𝚠𝚅2</a></b>
-┣⪼<b>Bᴜɪʟᴅ ∇ᴇʀꜱɪᴏɴ : v2 [ ≛ Bƴ ʍɾ Sчᴅ ≛ ]</b>
+┣⪼<b>Mᴏᴠɪᴇꜱ Gʀᴏᴜᴩ : <a href='https://t.me/+d7djWG_VLfcwMzg9'></a></b>
+┣⪼<b>Bᴜɪʟᴅ ∇ᴇʀꜱɪᴏɴ : v1 [ ≛ Bƴ ʍɾ Sчᴅ ≛ ]</b>
 ┃
 <b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
   
