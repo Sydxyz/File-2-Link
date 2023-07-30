@@ -234,10 +234,10 @@ async def about_handler(bot, message):
 ┣⪼<b>ʟɪʙʀᴀʀʏ : <a href='https://t.me/+amIvlfZkOQZlYTY1'>Tɢ 🫥</a></b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: <a href='https://t.me/+iHakK2FaA5dhNTg1'>ΞИGLISH🤕🤕<\a></b>
 ┣⪼<b>Cʀᴇᴅɪᴛꜱ : <a href='https://t.me/+RuD7qZl8PFJiNTI1'>PᴀʀΔʟʟᴇʟ CɪɴᴇᴍΔꜱ ™</a></b>
-┣⪼<b>Mᴏᴠɪᴇꜱ Gʀᴏᴜᴩ : <a href='https://t.me/+d7djWG_VLfcwMzg9'></a></b>
+┣⪼<b>Mᴏᴠɪᴇꜱ Gʀᴏᴜᴩ : <a href='https://t.me/+d7djWG_VLfcwMzg9'>RᴇQᴜᴇꜱᴛ MᴏVɪᴇꜱ ᠰ</a></b>
 ┣⪼<b>Bᴜɪʟᴅ ∇ᴇʀꜱɪᴏɴ : v1 [ ≛ Bƴ ʍɾ Sчᴅ ≛ ]</b>
 ┃
-<b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
+<b>╰━━━━━━━⦍ ⸢Tʜᴇ-Ξɴᴅ⸥ ⦐</b>""",
   
         
         reply_markup=InlineKeyboardMarkup(
