@@ -229,7 +229,7 @@ async def about_handler(bot, message):
 ┣⪼<b>Bᴏᴛ ɴΔᴍᴇ : <a href='https://t.me/Ms_FiLe2LINk_bOt'>˹ᴍꜱ˼ ˾ꜰɪʟᴇ 2 ʟɪɴᴋ˺ 𐂴</a></b>
 ┣⪼<b>Oᴡɴᴇʀ : <a href='http://t.me/Syd_Xyz'>мґ 𝕾𝖄𝕯 ️✨️️</a></b>
 ┣⪼<b>Uᴘᴅᴀᴛᴇꜱ : <a href='https://t.me/Bot_cracker'>Bᴏᴛ Cʀᴀᴄᴋᴇʀ 𐂭</a></b>
-┣⪼<b>Sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/MrMoviez_Grp'>Mʀ Mᴏᴠɪᴇᴢ Gʀᴩ ⍟</a></b>
+┣⪼<b>Sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/MrMoviez_Group'>Mʀ Mᴏᴠɪᴇᴢ Gʀᴩ ⍟</a></b>
 ┣⪼<b>sᴇʀᴠᴇʀ : <a href='https://mrsydoo.blogspot.com/2023/05/you-cant-count-no-of-ads-ad-site.html'>Bʟᴏɢɢᴇʀ; TʜΞ Δᴅ SɪΓΞ 😊</a></b>
 ┣⪼<b>ʟɪʙʀᴀʀʏ : <a href='https://t.me/+amIvlfZkOQZlYTY1'>Tɢ 🫥</a></b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: <a href='https://t.me/+iHakK2FaA5dhNTg1'>ΞИGLISH🤕🤕</a></b>
