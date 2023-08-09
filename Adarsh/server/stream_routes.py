@@ -23,8 +23,7 @@ routes = web.RouteTableDef()
 @routes.get("/", allow_head=True)
 async def root_route_handler(_):
     return web.json_response(
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3967423603573430"
-     crossorigin="anonymous"></script>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3967423603573430" crossorigin="anonymous"></script>
         {
             "server_status": "running",
             "uptime": get_readable_time(time.time() - StartTime),
