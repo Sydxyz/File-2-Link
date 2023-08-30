@@ -47,7 +47,6 @@ async def start(b, m):
                     
                 )
                 return
-            except Exception:
                
         await m.reply_photo(
             photo="https://graph.org/file/f20d1210495df4bd7b4c8.jpg",
