@@ -237,9 +237,8 @@ async def about_handler(bot, message):
                 )
             )
             return
-            
-         except Exception:
-             await message.reply_photo(
+        except Exception:
+            await message.reply_photo(
                  photo="https://graph.org/file/bee17850e842b8ecaad3c.jpg",
                  caption="""<b>╭━━━━━━━⦍ ⸢ʙᴏᴛ-ᴅᴇᴛᴀɪʟꜱ⸥ ⦐</b>
 ┃
