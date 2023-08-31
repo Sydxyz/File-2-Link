@@ -183,7 +183,7 @@ async def help_handler(bot, message):
                     caption="**┣⪼ sᴇɴᴅ ᴍᴇ ᴀɴʏ ғɪʟᴇ/ᴠɪᴅᴇᴏ , ɪ ᴡɪʟʟ ɢɪᴠᴇ ᴀ ʏᴏᴜ ᴘᴇʀᴍᴀɴᴇɴᴛ sʜᴀʀᴇᴀʙʟᴇ ʟɪɴᴋ ᴏғ ɪᴛ...\n\n┣⪼ ᴛʜɪs ʟɪɴᴋ ᴄᴀɴ ʙᴇ ᴀʟꜱᴏ ᴜsᴇᴅ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴏʀ ᴛᴏ sᴛʀᴇᴀᴍ ᴜsɪɴɢ ᴇxᴛᴇʀɴᴀʟ ᴠɪᴅᴇᴏ ᴘʟᴀʏᴇʀs ᴛʜʀᴏᴜɢʜ ᴍʏ sᴇʀᴠᴇʀs.\n\n┣⪼ ғᴏʀ sᴛʀᴇᴀᴍɪɴɢ ᴊᴜsᴛ ᴄᴏᴘʏ ᴛʜᴇ ʟɪɴᴋ ᴀɴᴅ ᴘᴀsᴛᴇ ɪᴛ ɪɴ ʏᴏᴜʀ ᴠɪᴅᴇᴏ ᴘʟᴀʏᴇʀ ᴛᴏ sᴛᴀʀᴛ sᴛʀᴇᴀᴍɪɴɢ.\n\n┣⪼ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟsᴏ sᴜᴘᴘᴏʀᴛ ɪɴ ᴄʜᴀɴɴᴇʟ [ᴩʀᴏ✨️, ᴩᴀɪᴅ ꜰᴇᴀᴛᴜʀᴇ...ꜰᴏʀ ᴍᴏʀᴇ ᴄᴏɴᴛᴀᴄᴛ @Syd_xyz ]. ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴀs ᴀᴅᴍɪɴ ᴛᴏ ɢᴇᴛ ʀᴇᴀʟᴛɪᴍᴇ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ ғᴏʀ ᴇᴠᴇʀʏ ғɪʟᴇs/ᴠɪᴅᴇᴏs ᴘᴏsᴛ../\n\n┣⪼ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ :- /about\n\n\n⚠Cᴜᴀᴛɪᴏɴ ᴀʜᴇᴀᴅ ;\n✧ sᴘᴀᴍ = ʙᴀɴ \n✧ ᴅᴏɴᴛ ᴜꜱᴇ ᴀᴅᴜʟᴛ ᴠɪᴅᴇᴏꜱ, ɪꜰ yᴏᴜ ᴡᴀɴᴛ yᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜᴇ ꜱɪᴛᴇꜱ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ɢᴏᴏɢʟᴇ ᴏʀ ᴅᴏᴡɴʟᴏᴀᴅ ꜰɪʟᴇꜱ,\nᴅᴏɴᴛ ᴜꜱᴇ ᴏᴜʀ ʙᴏᴛ ꜰᴏʀ ᴛʜᴀᴛ [ʙᴇ ᴀ ɢᴏᴏᴅ ᴏɴᴇ😇 #yᴏᴜᴡɪʟʟᴀɢᴇᴛᴄʜᴀɴᴄᴇᴀʟꜱᴏ] \n\nᴘʟᴇᴀsᴇ sʜᴀʀᴇ ᴀɴᴅ sᴜᴩᴩᴏʀᴛ ᴜꜱ!!!**", 
                     reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("✲ UᴩᴅΔᴛᴇꜱ ✲", url="https://t.me/Bot_cracker"), InlineKeyboardButton("☆ Gᴇᴛ MᴏVɪᴇꜱ ☆", url="https://t.me/Mod_MoviezX/193")],
+                [InlineKeyboardButton("✲ UᴩᴅΔᴛᴇꜱ ✲", url="https://t.me/Bot_cracker"), InlineKeyboardButton("☆ Gᴇᴛ MᴏVɪᴇꜱ ☆", url="https://t.me/Mod_MoviezX/228")],
                 [InlineKeyboardButton("♚ Oᴡɴᴇʀ ♚", user_id=1733124290), InlineKeyboardButton ("⌬ Pʀᴏ-ꜱɪᴛᴇ ⌬", url="https://t.me/+7TYOxeNL37I5MWRl"), InlineKeyboardButton("⚘ Bᴏᴛꜱ ➾", url="https://t.me/Bot_Cracker/17")],
                 [InlineKeyboardButton("✫ Mᴏᴠɪᴇꜱ Gʀᴏᴜᴩ ✫", url="https://t.me/+d7djWG_VLfcwMzg9")]
     ]
@@ -197,7 +197,7 @@ async def help_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("✲ UᴩᴅΔᴛᴇꜱ ✲", url="https://t.me/Bot_cracker"), InlineKeyboardButton("☆ Gᴇᴛ MᴏVɪᴇꜱ ☆", url="https://t.me/Mod_MoviezX/193")],
+                [InlineKeyboardButton("✲ UᴩᴅΔᴛᴇꜱ ✲", url="https://t.me/Bot_cracker"), InlineKeyboardButton("☆ Gᴇᴛ MᴏVɪᴇꜱ ☆", url="https://t.me/Mod_MoviezX/228")],
                 [InlineKeyboardButton("♚ Oᴡɴᴇʀ ♚", user_id=1733124290), InlineKeyboardButton ("⌬ Pʀᴏ-ꜱɪᴛᴇ ⌬", url="https://t.me/+7TYOxeNL37I5MWRl"), InlineKeyboardButton("⚘ Bᴏᴛꜱ ➾", url="https://t.me/Bot_Cracker/17")],
                 [InlineKeyboardButton("✫ Mᴏᴠɪᴇꜱ Gʀᴏᴜᴩ ✫", url="https://t.me/+d7djWG_VLfcwMzg9")]
     ]
@@ -256,7 +256,7 @@ async def about_handler(bot, message):
 <b>╰━━━━━━━⦍ ⸢Tʜᴇ-Ξɴᴅ⸥ ⦐</b>""",
                  reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("✲ UᴩᴅΔᴛᴇꜱ ☆", url="https://t.me/Gettglinks"), InlineKeyboardButton("☼ MᴏVɪᴇꜱ ☼", url="https://t.me/Mod_Moviezx/218")],
+                [InlineKeyboardButton("✲ UᴩᴅΔᴛᴇꜱ ☆", url="https://t.me/Gettglinks"), InlineKeyboardButton("☼ MᴏVɪᴇꜱ ☼", url="https://t.me/Mod_Moviezx/228")],
                 [InlineKeyboardButton ("⌬ Bᴀᴄᴋ-Uᴩ ⌬", url="https://t.me/nt_Backup/4"), InlineKeyboardButton("⚘ Bᴏᴛꜱ ➾", url="https://t.me/Bot_Cracker/17")],
                 [InlineKeyboardButton("♤ Mᴏᴠɪᴇꜱ Cʜᴀɴɴᴇʟ ♤", url="https://t.me/Mod_MovIezX")]
             ]
@@ -283,7 +283,7 @@ async def about_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("✲ UᴩᴅΔᴛᴇꜱ ☆", url="https://t.me/Gettglinks"), InlineKeyboardButton("☼ MᴏVɪᴇꜱ ☼", url="https://t.me/Mod_Moviezx/218")],
+                [InlineKeyboardButton("✲ UᴩᴅΔᴛᴇꜱ ☆", url="https://t.me/Gettglinks"), InlineKeyboardButton("☼ MᴏVɪᴇꜱ ☼", url="https://t.me/Mod_Moviezx/228")],
                 [InlineKeyboardButton ("⌬ Bᴀᴄᴋ-Uᴩ ⌬", url="https://t.me/nt_Backup/4"), InlineKeyboardButton("⚘ Bᴏᴛꜱ ➾", url="https://t.me/Bot_Cracker/17")],
                 [InlineKeyboardButton("♤ Mᴏᴠɪᴇꜱ Cʜᴀɴɴᴇʟ ♤", url="https://t.me/Mod_MovIezX")]
             ]
