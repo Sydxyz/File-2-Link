@@ -223,6 +223,31 @@ async def about_handler(bot, message):
                 )
             )
             return
+         except Exception:
+             await bot.send_message(
+                 text="""<b>╭━━━━━━━⦍ ⸢ʙᴏᴛ-ᴅᴇᴛᴀɪʟꜱ⸥ ⦐</b>
+┃
+┣⪼<b>Bᴏᴛ ɴΔᴍᴇ : <a href='https://t.me/Ms_FiLe2LINk_bOt'>˹ᴍꜱ˼ ˾ꜰɪʟᴇ 2 ʟɪɴᴋ˺ 𐂴</a></b>
+┣⪼<b>Oᴡɴᴇʀ : <a href='http://t.me/Syd_Xyz'>мґ 𝕾𝖄𝕯 ️✨️️</a></b>
+┣⪼<b>Uᴘᴅᴀᴛᴇꜱ : <a href='https://t.me/Bot_cracker'>Bᴏᴛ Cʀᴀᴄᴋᴇʀ 𐂭</a></b>
+┣⪼<b>Sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/MrMoviez_Group'>Mʀ Mᴏᴠɪᴇᴢ Gʀᴩ ⍟</a></b>
+┣⪼<b>sᴇʀᴠᴇʀ : <a href='https://mrsydoo.blogspot.com/2023/05/you-cant-count-no-of-ads-ad-site.html'>Bʟᴏɢɢᴇʀ; TʜΞ Δᴅ SɪΓΞ 😊</a></b>
+┣⪼<b>ʟɪʙʀᴀʀʏ : <a href='https://t.me/+amIvlfZkOQZlYTY1'>Tɢ 🫥</a></b>
+┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: <a href='https://t.me/+iHakK2FaA5dhNTg1'>ΞИGLISH🤕🤕</a></b>
+┣⪼<b>Cʀᴇᴅɪᴛꜱ : <a href='https://t.me/+RuD7qZl8PFJiNTI1'>PᴀʀΔʟʟᴇʟ CɪɴᴇᴍΔꜱ ™</a></b>
+┣⪼<b>Mᴏᴠɪᴇꜱ Gʀᴏᴜᴩ : <a href='https://t.me/+d7djWG_VLfcwMzg9'>RᴇQᴜᴇꜱᴛ-MᴏVɪᴇꜱ</a></b>
+┣⪼<b>Bᴜɪʟᴅ ∇ᴇʀꜱɪᴏɴ : v1 [≛ Bƴ ʍɾ Sчᴅ ≛]</b>
+┃
+<b>╰━━━━━━━⦍ ⸢Tʜᴇ-Ξɴᴅ⸥ ⦐</b>""",
+                 reply_markup=InlineKeyboardMarkup(
+            [
+                [InlineKeyboardButton("✲ UᴩᴅΔᴛᴇꜱ ☆", url="https://t.me/Gettglinks"), InlineKeyboardButton("☼ MᴏVɪᴇꜱ ☼", url="https://t.me/Mod_Moviezx/218")],
+                [InlineKeyboardButton ("⌬ Bᴀᴄᴋ-Uᴩ ⌬", url="https://t.me/nt_Backup/4"), InlineKeyboardButton("⚘ Bᴏᴛꜱ ➾", url="https://t.me/Bot_Cracker/17")],
+                [InlineKeyboardButton("♤ Mᴏᴠɪᴇꜱ Cʜᴀɴɴᴇʟ ♤", url="https://t.me/Mod_MovIezX")]
+            ]
+        )
+            )
+             return
 
     await message.reply_photo(
             photo="https://graph.org/file/bee17850e842b8ecaad3c.jpg",
