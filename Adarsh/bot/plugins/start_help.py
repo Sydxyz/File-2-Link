@@ -237,10 +237,11 @@ async def about_handler(bot, message):
                 )
             )
             return
+            
          except Exception:
              await message.reply_photo(
-            photo="https://graph.org/file/bee17850e842b8ecaad3c.jpg",
-            caption="""<b>╭━━━━━━━⦍ ⸢ʙᴏᴛ-ᴅᴇᴛᴀɪʟꜱ⸥ ⦐</b>
+                 photo="https://graph.org/file/bee17850e842b8ecaad3c.jpg",
+                 caption="""<b>╭━━━━━━━⦍ ⸢ʙᴏᴛ-ᴅᴇᴛᴀɪʟꜱ⸥ ⦐</b>
 ┃
 ┣⪼<b>Bᴏᴛ ɴΔᴍᴇ : <a href='https://t.me/Ms_FiLe2LINk_bOt'>˹ᴍꜱ˼ ˾ꜰɪʟᴇ 2 ʟɪɴᴋ˺ 𐂴</a></b>
 ┣⪼<b>Oᴡɴᴇʀ : <a href='http://t.me/Syd_Xyz'>мґ 𝕾𝖄𝕯 ️✨️️</a></b>
@@ -264,7 +265,7 @@ async def about_handler(bot, message):
             )
              return
 
-    await message.reply_photo(
+             await message.reply_photo(
             photo="https://graph.org/file/bee17850e842b8ecaad3c.jpg",
             caption="""<b>╭━━━━━━━⦍ ⸢ʙᴏᴛ-ᴅᴇᴛᴀɪʟꜱ⸥ ⦐</b>
 ┃
