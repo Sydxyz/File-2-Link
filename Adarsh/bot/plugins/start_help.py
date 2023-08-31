@@ -174,7 +174,7 @@ async def help_handler(bot, message):
                 [InlineKeyboardButton("✫ Mᴏᴠɪᴇꜱ Gʀᴏᴜᴩ ✫", url="https://t.me/+d7djWG_VLfcwMzg9")]
     ]
         )
-        )
+                )
                 return
                   await message.reply_photo(
             photo="https://graph.org/file/b13a16615914952c141e4.jpg",
