@@ -163,6 +163,20 @@ async def help_handler(bot, message):
                     disable_web_page_preview=True
                 )
                 return
+        except UserNotParticipant:
+                await b.send_message(
+                    chat_id=m.chat.id,
+                    text="**ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜsᴇ  ᴍᴇ..🥹🥹**\n\n**ᴛʜᴇʀᴇ ᴍᴀɴy ᴜꜱᴇʀꜱ ᴀɴᴅ ᴡᴇ ᴀʀᴇ ɢɪᴠɪɴɢ ᴛʜɪꜱ ꜱᴇʀᴠɪᴄᴇ ꜰᴏʀ ꜰʀᴇᴇ🥲** \n\n**Tʜɪꜱ ɪꜱ ᴏɴʟy ꜰᴏʀ ᴛᴏᴅᴀy(Oɴᴄᴇ ɪɴ ᴀ ᴍᴏɴᴛʜ) 😔** \n\n**Sᴏ ᴩʟᴇᴀꜱᴇ ꜱᴜᴩᴩᴏʀᴛ ᴜꜱ ..!😔😔**",
+                    reply_markup=InlineKeyboardMarkup(
+                        [
+                            [
+                                InlineKeyboardButton("⍟ ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ⍟", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
+                            ]
+                        ]
+                    )
+                    
+                )
+                return
         except Exception:
             await m.reply_photo(
                     photo="https://graph.org/file/b13a16615914952c141e4.jpg",
@@ -209,6 +223,7 @@ async def about_handler(bot, message):
                     disable_web_page_preview=True
                 )
                 return
+             
         except UserNotParticipant:
             await bot.send_message(
                 chat_id=message.chat.id,
