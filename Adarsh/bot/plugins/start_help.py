@@ -163,21 +163,22 @@ async def help_handler(bot, message):
                     disable_web_page_preview=True
                 )
                 return
-        except Exception:
-                await b.reply_photo(
-                    photo="https://graph.org/file/f20d1210495df4bd7b4c8.jpg",
-                    caption="**ʜᴇʟʟᴏ...⚡\n\nɪ,ᴀᴍ ᴀ ᴩʀᴏ✨️ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴄᴏɴᴠᴇʀᴛᴇʀ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ. A sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ ᴡɪᴛʜ ʙᴇꜱᴛ ꜰᴇᴀᴛᴜʀᴇꜱ⚡️.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ...**",
-                    reply_markup=InlineKeyboardMarkup(
-                       [
-                            [InlineKeyboardButton("✲ UᴩᴅΔᴛᴇꜱ ✲", url="https://t.me/Bot_cracker"), InlineKeyboardButton("☆ MᴏVɪᴇꜱ ☆", url="https://t.me/Mod_MoviezX")],
-                            [InlineKeyboardButton("♚ Oᴡɴᴇʀ ♚", user_id=1733124290), InlineKeyboardButton ("⌬ Bᴀᴄᴋ-Uᴩ ⌬", url="https://t.me/+7TYOxeNL37I5MWRl"), InlineKeyboardButton("⚘ Bᴏᴛꜱ ➾", url="https://t.me/Bot_Cracker/17")],
-                            [InlineKeyboardButton("✫ Mᴏᴠɪᴇꜱ Gʀᴏᴜᴩ ✫", url="https://t.me/+d7djWG_VLfcwMzg9")]
-                ]
-            ),
-            
-                    )
+            except Exception:
+                await m.reply_photo(
+                    photo="https://graph.org/file/b13a16615914952c141e4.jpg",
+            caption="**┣⪼ sᴇɴᴅ ᴍᴇ ᴀɴʏ ғɪʟᴇ/ᴠɪᴅᴇᴏ , ɪ ᴡɪʟʟ ɢɪᴠᴇ ᴀ ʏᴏᴜ ᴘᴇʀᴍᴀɴᴇɴᴛ sʜᴀʀᴇᴀʙʟᴇ ʟɪɴᴋ ᴏғ ɪᴛ...\n\n┣⪼ ᴛʜɪs ʟɪɴᴋ ᴄᴀɴ ʙᴇ ᴀʟꜱᴏ ᴜsᴇᴅ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴏʀ ᴛᴏ sᴛʀᴇᴀᴍ ᴜsɪɴɢ ᴇxᴛᴇʀɴᴀʟ ᴠɪᴅᴇᴏ ᴘʟᴀʏᴇʀs ᴛʜʀᴏᴜɢʜ ᴍʏ sᴇʀᴠᴇʀs.\n\n┣⪼ ғᴏʀ sᴛʀᴇᴀᴍɪɴɢ ᴊᴜsᴛ ᴄᴏᴘʏ ᴛʜᴇ ʟɪɴᴋ ᴀɴᴅ ᴘᴀsᴛᴇ ɪᴛ ɪɴ ʏᴏᴜʀ ᴠɪᴅᴇᴏ ᴘʟᴀʏᴇʀ ᴛᴏ sᴛᴀʀᴛ sᴛʀᴇᴀᴍɪɴɢ.\n\n┣⪼ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟsᴏ sᴜᴘᴘᴏʀᴛ ɪɴ ᴄʜᴀɴɴᴇʟ [ᴩʀᴏ✨️, ᴩᴀɪᴅ ꜰᴇᴀᴛᴜʀᴇ...ꜰᴏʀ ᴍᴏʀᴇ ᴄᴏɴᴛᴀᴄᴛ @Syd_xyz ]. ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴀs ᴀᴅᴍɪɴ ᴛᴏ ɢᴇᴛ ʀᴇᴀʟᴛɪᴍᴇ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ ғᴏʀ ᴇᴠᴇʀʏ ғɪʟᴇs/ᴠɪᴅᴇᴏs ᴘᴏsᴛ../\n\n┣⪼ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ :- /about\n\n\n⚠Cᴜᴀᴛɪᴏɴ ᴀʜᴇᴀᴅ ;\n✧ sᴘᴀᴍ = ʙᴀɴ \n✧ ᴅᴏɴᴛ ᴜꜱᴇ ᴀᴅᴜʟᴛ ᴠɪᴅᴇᴏꜱ, ɪꜰ yᴏᴜ ᴡᴀɴᴛ yᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜᴇ ꜱɪᴛᴇꜱ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ɢᴏᴏɢʟᴇ ᴏʀ ᴅᴏᴡɴʟᴏᴀᴅ ꜰɪʟᴇꜱ,\nᴅᴏɴᴛ ᴜꜱᴇ ᴏᴜʀ ʙᴏᴛ ꜰᴏʀ ᴛʜᴀᴛ [ʙᴇ ᴀ ɢᴏᴏᴅ ᴏɴᴇ😇 #yᴏᴜᴡɪʟʟᴀɢᴇᴛᴄʜᴀɴᴄᴇᴀʟꜱᴏ] \n\nᴘʟᴇᴀsᴇ sʜᴀʀᴇ ᴀɴᴅ sᴜᴩᴩᴏʀᴛ ᴜꜱ!!!**", 
+  
+        
+        reply_markup=InlineKeyboardMarkup(
+            [
+                [InlineKeyboardButton("✲ UᴩᴅΔᴛᴇꜱ ✲", url="https://t.me/Bot_cracker"), InlineKeyboardButton("☆ Gᴇᴛ MᴏVɪᴇꜱ ☆", url="https://t.me/Mod_MoviezX/193")],
+                [InlineKeyboardButton("♚ Oᴡɴᴇʀ ♚", user_id=1733124290), InlineKeyboardButton ("⌬ Pʀᴏ-ꜱɪᴛᴇ ⌬", url="https://t.me/+7TYOxeNL37I5MWRl"), InlineKeyboardButton("⚘ Bᴏᴛꜱ ➾", url="https://t.me/Bot_Cracker/17")],
+                [InlineKeyboardButton("✫ Mᴏᴠɪᴇꜱ Gʀᴏᴜᴩ ✫", url="https://t.me/+d7djWG_VLfcwMzg9")]
+    ]
+        )
+        )
                 return
-    await message.reply_photo(
+                  await message.reply_photo(
             photo="https://graph.org/file/b13a16615914952c141e4.jpg",
             caption="**┣⪼ sᴇɴᴅ ᴍᴇ ᴀɴʏ ғɪʟᴇ/ᴠɪᴅᴇᴏ , ɪ ᴡɪʟʟ ɢɪᴠᴇ ᴀ ʏᴏᴜ ᴘᴇʀᴍᴀɴᴇɴᴛ sʜᴀʀᴇᴀʙʟᴇ ʟɪɴᴋ ᴏғ ɪᴛ...\n\n┣⪼ ᴛʜɪs ʟɪɴᴋ ᴄᴀɴ ʙᴇ ᴀʟꜱᴏ ᴜsᴇᴅ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴏʀ ᴛᴏ sᴛʀᴇᴀᴍ ᴜsɪɴɢ ᴇxᴛᴇʀɴᴀʟ ᴠɪᴅᴇᴏ ᴘʟᴀʏᴇʀs ᴛʜʀᴏᴜɢʜ ᴍʏ sᴇʀᴠᴇʀs.\n\n┣⪼ ғᴏʀ sᴛʀᴇᴀᴍɪɴɢ ᴊᴜsᴛ ᴄᴏᴘʏ ᴛʜᴇ ʟɪɴᴋ ᴀɴᴅ ᴘᴀsᴛᴇ ɪᴛ ɪɴ ʏᴏᴜʀ ᴠɪᴅᴇᴏ ᴘʟᴀʏᴇʀ ᴛᴏ sᴛᴀʀᴛ sᴛʀᴇᴀᴍɪɴɢ.\n\n┣⪼ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟsᴏ sᴜᴘᴘᴏʀᴛ ɪɴ ᴄʜᴀɴɴᴇʟ [ᴩʀᴏ✨️, ᴩᴀɪᴅ ꜰᴇᴀᴛᴜʀᴇ...ꜰᴏʀ ᴍᴏʀᴇ ᴄᴏɴᴛᴀᴄᴛ @Syd_xyz ]. ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴀs ᴀᴅᴍɪɴ ᴛᴏ ɢᴇᴛ ʀᴇᴀʟᴛɪᴍᴇ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ ғᴏʀ ᴇᴠᴇʀʏ ғɪʟᴇs/ᴠɪᴅᴇᴏs ᴘᴏsᴛ../\n\n┣⪼ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ :- /about\n\n\n⚠Cᴜᴀᴛɪᴏɴ ᴀʜᴇᴀᴅ ;\n✧ sᴘᴀᴍ = ʙᴀɴ \n✧ ᴅᴏɴᴛ ᴜꜱᴇ ᴀᴅᴜʟᴛ ᴠɪᴅᴇᴏꜱ, ɪꜰ yᴏᴜ ᴡᴀɴᴛ yᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜᴇ ꜱɪᴛᴇꜱ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ɢᴏᴏɢʟᴇ ᴏʀ ᴅᴏᴡɴʟᴏᴀᴅ ꜰɪʟᴇꜱ,\nᴅᴏɴᴛ ᴜꜱᴇ ᴏᴜʀ ʙᴏᴛ ꜰᴏʀ ᴛʜᴀᴛ [ʙᴇ ᴀ ɢᴏᴏᴅ ᴏɴᴇ😇 #yᴏᴜᴡɪʟʟᴀɢᴇᴛᴄʜᴀɴᴄᴇᴀʟꜱᴏ] \n\nᴘʟᴇᴀsᴇ sʜᴀʀᴇ ᴀɴᴅ sᴜᴩᴩᴏʀᴛ ᴜꜱ!!!**", 
   
