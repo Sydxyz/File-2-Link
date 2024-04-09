@@ -36,7 +36,7 @@ async def start(b, m):
             except UserNotParticipant:
                 await b.send_message(
                     chat_id=m.chat.id,
-                    text="**ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜsᴇ  ᴍᴇ..🥹🥹**\n\n**ᴛʜᴇʀᴇ ᴍᴀɴy ᴜꜱᴇʀꜱ ᴀɴᴅ ᴡᴇ ᴀʀᴇ ɢɪᴠɪɴɢ ᴛʜɪꜱ ꜱᴇʀᴠɪᴄᴇ ꜰᴏʀ ꜰʀᴇᴇ🥲** \n\n**Tʜɪꜱ ɪꜱ ᴏɴʟy ꜰᴏʀ ᴛᴏᴅᴀy(Oɴᴄᴇ ɪɴ ᴀ ᴍᴏɴᴛʜ) 😔** \n\n**Sᴏ ᴩʟᴇᴀꜱᴇ ꜱᴜᴩᴩᴏʀᴛ ᴜꜱ ..!😔😔**",
+                    text="**ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜsᴇ  ᴍᴇ..🥹🥹**\n\n**ᴛʜᴇʀᴇ ᴍᴀɴy ᴜꜱᴇʀꜱ ᴀɴᴅ ᴡᴇ ᴀʀᴇ ɢɪᴠɪɴɢ ᴛʜɪꜱ ꜱᴇʀᴠɪᴄᴇ ꜰᴏʀ ꜰʀᴇᴇ🥲**\n\n**Sᴏ ᴩʟᴇᴀꜱᴇ ꜱᴜᴩᴩᴏʀᴛ ᴜꜱ ..!😔😔**<blockquote>Nᴏ Iɴᴅɪʀᴇᴄᴛ ʟɪɴᴋꜱ, Nᴏ ∇ΞʀɪꜰɪᴄΔᴛɪᴏɴ, FЯΞΞ ᴏꜰ Cᴏꜱᴛ</blockquote>",
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
@@ -88,7 +88,7 @@ async def start(b, m):
             except UserNotParticipant:
                 await b.send_message(
                     chat_id=m.chat.id,
-                    text="**ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜsᴇ  ᴍᴇ..🥹🥹**\n\n**ᴛʜᴇʀᴇ ᴍᴀɴy ᴜꜱᴇʀꜱ ᴀɴᴅ ᴡᴇ ᴀʀᴇ ɢɪᴠɪɴɢ ᴛʜɪꜱ ꜱᴇʀᴠɪᴄᴇ ꜰᴏʀ ꜰʀᴇᴇ🥲**\n\n**Tʜɪꜱ ɪꜱ ᴏɴʟy ꜰᴏʀ ᴛᴏᴅᴀy(10) 😔**\n\n**Sᴏ ᴩʟᴇᴀꜱᴇ ꜱᴜᴩᴩᴏʀᴛ ᴜꜱ ..!😔😔**",
+                    text="**ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜsᴇ  ᴍᴇ..🥹🥹**\n\n**ᴛʜᴇʀᴇ ᴍᴀɴy ᴜꜱᴇʀꜱ ᴀɴᴅ ᴡᴇ ᴀʀᴇ ɢɪᴠɪɴɢ ᴛʜɪꜱ ꜱᴇʀᴠɪᴄᴇ ꜰᴏʀ ꜰʀᴇᴇ🥲**\n\n**Sᴏ ᴩʟᴇᴀꜱᴇ ꜱᴜᴩᴩᴏʀᴛ ᴜꜱ ..!😔😔**",
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
@@ -166,7 +166,7 @@ async def help_handler(bot, message):
         except UserNotParticipant:
                 await b.send_message(
                     chat_id=m.chat.id,
-                    text="**ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜsᴇ  ᴍᴇ..🥹🥹**\n\n**ᴛʜᴇʀᴇ ᴍᴀɴy ᴜꜱᴇʀꜱ ᴀɴᴅ ᴡᴇ ᴀʀᴇ ɢɪᴠɪɴɢ ᴛʜɪꜱ ꜱᴇʀᴠɪᴄᴇ ꜰᴏʀ ꜰʀᴇᴇ🥲** \n\n**Tʜɪꜱ ɪꜱ ᴏɴʟy ꜰᴏʀ ᴛᴏᴅᴀy(Oɴᴄᴇ ɪɴ ᴀ ᴍᴏɴᴛʜ) 😔** \n\n**Sᴏ ᴩʟᴇᴀꜱᴇ ꜱᴜᴩᴩᴏʀᴛ ᴜꜱ ..!😔😔**",
+                    text="**ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜsᴇ  ᴍᴇ..🥹🥹**\n\n**ᴛʜᴇʀᴇ ᴍᴀɴy ᴜꜱᴇʀꜱ ᴀɴᴅ ᴡᴇ ᴀʀᴇ ɢɪᴠɪɴɢ ᴛʜɪꜱ ꜱᴇʀᴠɪᴄᴇ ꜰᴏʀ ꜰʀᴇᴇ🥲**\n\n**Sᴏ ᴩʟᴇᴀꜱᴇ ꜱᴜᴩᴩᴏʀᴛ ᴜꜱ ..!😔😔**",
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
