@@ -186,7 +186,7 @@ async def help_handler(bot, message):
                 [InlineKeyboardButton("✲ UᴩᴅΔᴛᴇꜱ ✲", url="https://t.me/Bot_cracker"), InlineKeyboardButton("☆ Gᴇᴛ MᴏVɪᴇꜱ ☆", url="https://t.me/Mod_Moviez_X/228")],
                 [InlineKeyboardButton("♚ Oᴡɴᴇʀ ♚", url="https://t.me/Bot_cracker"), InlineKeyboardButton ("⌬ Pʀᴏ-ꜱɪᴛᴇ ⌬", url="https://t.me/+7TYOxeNL37I5MWRl"), InlineKeyboardButton("⚘ Bᴏᴛꜱ ➾", url="https://t.me/Bot_Cracker/17")],
                 [InlineKeyboardButton("✫ Mᴏᴠɪᴇꜱ Gʀᴏᴜᴩ ✫", url="https://t.me/+d7djWG_VLfcwMzg9")]
-    ]
+            ]
         )
                 )
                 return
@@ -200,7 +200,7 @@ async def help_handler(bot, message):
                 [InlineKeyboardButton("✲ UᴩᴅΔᴛᴇꜱ ✲", url="https://t.me/Bot_cracker"), InlineKeyboardButton("☆ Gᴇᴛ MᴏVɪᴇꜱ ☆", url="https://t.me/Mod_Moviez_X/228")],
                 [InlineKeyboardButton("♚ Oᴡɴᴇʀ ♚", url="https://t.me/Bot_cracker"), InlineKeyboardButton ("⌬ Pʀᴏ-ꜱɪᴛᴇ ⌬", url="https://t.me/+7TYOxeNL37I5MWRl"), InlineKeyboardButton("⚘ Bᴏᴛꜱ ➾", url="https://t.me/Bot_Cracker/17")],
                 [InlineKeyboardButton("✫ Mᴏᴠɪᴇꜱ Gʀᴏᴜᴩ ✫", url="https://t.me/+d7djWG_VLfcwMzg9")]
-    ]
+            ]
         )
     )
 
