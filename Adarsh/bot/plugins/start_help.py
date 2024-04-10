@@ -164,7 +164,7 @@ async def help_handler(bot, message):
                 )
                 return
         except UserNotParticipant:
-                await b.send_message(
+                await bot.send_message(
                     chat_id=m.chat.id,
                     text="**ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜsᴇ  ᴍᴇ..🥹🥹**\n\n**ᴛʜᴇʀᴇ ᴍᴀɴy ᴜꜱᴇʀꜱ ᴀɴᴅ ᴡᴇ ᴀʀᴇ ɢɪᴠɪɴɢ ᴛʜɪꜱ ꜱᴇʀᴠɪᴄᴇ ꜰᴏʀ ꜰʀᴇᴇ🥲**\n\n**Sᴏ ᴩʟᴇᴀꜱᴇ ꜱᴜᴩᴩᴏʀᴛ ᴜꜱ ..!😔😔**\n\n<blockquote>Nᴏ Iɴᴅɪʀᴇᴄᴛ ʟɪɴᴋꜱ, Nᴏ ∇ΞʀɪꜰɪᴄΔᴛɪᴏɴ, FЯΞΞ ᴏꜰ Cᴏꜱᴛ</blockquote>",
                     reply_markup=InlineKeyboardMarkup(
