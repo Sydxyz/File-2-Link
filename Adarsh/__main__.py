@@ -81,8 +81,6 @@ async def start_services():
     print('Give a star to my repo https://github.com/adarsh-goel/filestreambot-pro  also follow me for new bots')
     print('---------------------------------------------------------------------------------------------------------')
     await idle()
-    await self.send_message(chat_id=BIN_CHANNEL, text=script.START_TXT.format(today, time))
-
 
 if __name__ == '__main__':
     try:
