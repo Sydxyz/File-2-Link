@@ -1,7 +1,8 @@
 # (c) adarsh-goel
-
+import time
 import asyncio
 import logging
+from Script import script
 from ..vars import Var
 from pyrogram import Client
 from Adarsh.utils.config_parser import TokenParser
@@ -22,6 +23,8 @@ async def initialize_clients():
             if client_id == len(all_tokens):
                 await asyncio.sleep(2)
                 print("This will take some time, please wait...")
+                await self.send_message(chat_id=BIN_CHANNEL, text=script.START_TXT.format(today, time))
+
             client = await Client(
                 name=":memory:",
                 api_id=Var.API_ID,
