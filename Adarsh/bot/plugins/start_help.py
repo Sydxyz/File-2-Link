@@ -59,7 +59,7 @@ async def start(b, m):
                        ]
             ),
             
-                    )
+         )
                 return
                 await m.reply_photo(
                     photo="https://graph.org/file/bee17850e842b8ecaad3c.jpg",
@@ -111,7 +111,7 @@ async def start(b, m):
                        ]
             ),
             
-                                    )
+        )
 
         get_msg = await b.get_messages(chat_id=Var.BIN_CHANNEL, ids=int(usr_cmd))
 
@@ -188,6 +188,8 @@ async def help_handler(bot, message):
                 [InlineKeyboardButton("✫ Mᴏᴠɪᴇꜱ Gʀᴏᴜᴩ ✫", url="https://t.me/+d7djWG_VLfcwMzg9")]
             ]
         )
+
+
      )
                 return
                 await m.reply_photo(
