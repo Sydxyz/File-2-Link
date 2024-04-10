@@ -6,9 +6,9 @@ import asyncio
 import logging
 import importlib
 import time
+from Script import script
 from pathlib import Path
 from pyrogram import idle
-from pyrogram import Client
 from .bot import StreamBot
 from .vars import Var
 from aiohttp import web
